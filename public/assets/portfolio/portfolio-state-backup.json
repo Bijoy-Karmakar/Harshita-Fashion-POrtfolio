@@ -1,0 +1,133 @@
+{
+  "heroPortraitUrl": "/assets/portfolio/hero-portrait-a865a84b.png",
+  "marqueeOverrides": {
+    "0": "/assets/portfolio/marquee-slot-0-e5af14aa.jpg",
+    "1": "/assets/portfolio/marquee-slot-1-7bfe9726.jpg",
+    "2": "/assets/portfolio/marquee-slot-2-b5e00efd.jpg",
+    "3": "/assets/portfolio/marquee-slot-3-05ab67d9.jpg",
+    "4": "/assets/portfolio/marquee-slot-4-00ac0e9f.jpg",
+    "5": "/assets/portfolio/marquee-slot-5-1ff5d94d.jpg",
+    "6": "/assets/portfolio/marquee-slot-6-ee6e27b6.jpg",
+    "7": "/assets/portfolio/marquee-slot-7-0e4b78c0.jpg",
+    "8": "/assets/portfolio/marquee-slot-8-0e4b78c0.jpg",
+    "9": "/assets/portfolio/marquee-slot-9-4dfd2ee3.jpg",
+    "10": "/assets/portfolio/marquee-slot-10-ee6e27b6.jpg",
+    "11": "/assets/portfolio/marquee-slot-11-0e4b78c0.jpg",
+    "12": "/assets/portfolio/marquee-slot-12-4dfd2ee3.jpg",
+    "13": "/assets/portfolio/marquee-slot-13-a40baa49.jpg",
+    "14": "/assets/portfolio/marquee-slot-14-ec320bef.jpg",
+    "15": "/assets/portfolio/marquee-slot-15-e43ae86c.jpg",
+    "16": "/assets/portfolio/marquee-slot-16-4b84bfc1.jpg",
+    "17": "/assets/portfolio/marquee-slot-17-ef547fc4.jpg",
+    "18": "/assets/portfolio/marquee-slot-18-ee6e27b6.jpg",
+    "19": "/assets/portfolio/marquee-slot-19-ef547fc4.jpg",
+    "20": "/assets/portfolio/marquee-slot-20-1ff5d94d.jpg"
+  },
+  "identityProfile": {
+    "fullName": "HARSHITA ARYA",
+    "role": "NIFT SHILLONG (FASHION DESIGN)",
+    "badgeId": "BATCH 2023-2027",
+    "location": "india/shillong",
+    "specialty": "fashion designer [nift]",
+    "email": "harshita.fashion2917@gmail.com",
+    "photoUrl": "/assets/portfolio/identity-photo-f45c044b.jpg",
+    "customHeading": "CREATIVE MANIFEST0",
+    "customBodyText": "I believe fashion is more than the creation of garments; it is a language of expression, identity, and individuality. My design philosophy revolves around the balance between creativity, craftsmanship, and functionality. I find inspiration in art, culture, nature, and the constantly evolving world around me, translating observations into distinctive visual narratives. I approach every design with curiosity and an experimental mindset, exploring silhouettes, textures, fabric manipulation, and construction techniques. I believe in challenging conventional boundaries while respecting the fundamentals of design. My vision is to create meaningful, expressive, and thoughtfully constructed designs that communicate individuality and leave a lasting impression.",
+    "skillsHeading": "SKILLS",
+    "manifestoImageUrl": "/assets/portfolio/identity-skills-25ffe5f3.webp"
+  },
+  "projectImagesOverrides": {
+    "01": {
+      "col1Image1": "/assets/portfolio/project-01-col1Image1-33e4d9ab.png",
+      "col1Image2": "/assets/portfolio/project-01-col1Image2-6c815534.png",
+      "col2Image": "/assets/portfolio/project-01-col2Image-05ab67d9.jpg"
+    },
+    "02": {
+      "col1Image1": "/assets/portfolio/project-02-col1Image1-feeb3782.jpg",
+      "col1Image2": "/assets/portfolio/project-02-col1Image2-05a073b8.jpg",
+      "col2Image": "/assets/portfolio/project-02-col2Image-dffa6b9f.jpg"
+    },
+    "03": {
+      "col1Image1": "/assets/portfolio/project-03-col1Image1-1900c502.png",
+      "col1Image2": "/assets/portfolio/project-03-col1Image2-bf62e2f4.png",
+      "col2Image": "/assets/portfolio/project-03-col2Image-ef547fc4.jpg"
+    },
+    "04": {
+      "col1Image1": "/assets/portfolio/project-04-col1Image1-006cbf00.png",
+      "col1Image2": "/assets/portfolio/project-04-col1Image2-52482636.png",
+      "col2Image": "/assets/portfolio/project-04-col2Image-1ff5d94d.jpg"
+    },
+    "05": {
+      "col1Image1": "/assets/portfolio/project-05-col1Image1-c0405f55.png",
+      "col1Image2": "/assets/portfolio/project-05-col1Image2-3f0d2134.png",
+      "col2Image": "/assets/portfolio/project-05-col2Image-3198c777.jpg"
+    }
+  },
+  "projectDocs": {
+    "01": {
+      "subtitle": "CASUAL MEN'S WEAR",
+      "timeline": "ss 2026",
+      "role": "LEAD FASHION DESIGNER & 3D CREATIVE DIRECTOR",
+      "toolsAndMediums": "DENIM, PATCH WORK",
+      "deliverables": "12 COUTURE SILHOUETTES, SCULPTURAL FACE JEWELRY, 3D DIGITAL LOOKBOOK & SHOWROOM INSTALLATION",
+      "overview": "Chehre is a contemporary men's wear fashion collection that explores identity, individuality, and self-expression through clothing. Inspired by the many faces, emotions, and stories that shape who we are, the brand blends creativity with thoughtful design to create pieces that reflect personal style and inner character. Chehre celebrates the idea that fashion is more than appearance—it is a reflection of personality, culture, and the unique stories we carry. Chehre\" is a menswear fashion collection inspired by the many faces a man embodies in his everyday life. A face is not just a physical identity-it reflects emotions, roles, and hidden layers of personality. In a constantly evolving world, individuals shift between different \"chehre\" depending on situations, expectations, and inner states. This collection explores these transitions and the duality between the seen and the unseen self and focusing on the use of waste fabric scraps to craft intricate and expressive faces, visually engaging fabric patchwork that portray a range of human emotions and characteristics and the \"ART OF SELF LOVE\".",
+      "technicalDocumentation": "",
+      "outcomeAndNotes": "",
+      "docImage1": "/assets/portfolio/project-01-docImage1-d6278f11.jpg",
+      "docImage2": "/assets/portfolio/project-01-docImage2-4603d56c.jpg",
+      "docImage3": ""
+    },
+    "02": {
+      "subtitle": "traditional wear",
+      "timeline": "SS 2027 ",
+      "role": "BRAND ARCHITECT & VISUAL DIRECTOR",
+      "toolsAndMediums": "Glass satin,  sangtung silk,  Embroidery,  Bead work",
+      "deliverables": "FULL VISUAL IDENTITY SYSTEM, 3D MOTION FILMS, ATELIER PACKAGING & LOOKBOOK MONOGRAPH",
+      "overview": "The Silent Witness Every palace wall is a vault of unwritten history. While the history books record the wars and the kings, the walls themselves—the lime-plastered surfaces and the mineral-stained frescoes—remember the smaller, human moments. They are the silent observers of royal whispers, the warmth of a passing silk sleeve, and the echoes of hidden romances that never left the courtyard. This garment is not just a costume; it is an attempt to translate that \"memory of stone\" into the language of textile.",
+      "technicalDocumentation": "",
+      "outcomeAndNotes": "",
+      "docImage1": "/assets/portfolio/project-02-docImage1-7d07c750.jpg",
+      "docImage2": "",
+      "docImage3": ""
+    },
+    "03": {
+      "subtitle": "women's denim wear",
+      "timeline": "ss 2027",
+      "role": "CREATIVE TECHNOLOGIST & COUTURE DESIGNER",
+      "toolsAndMediums": "denim",
+      "deliverables": "INTERACTIVE RUNWAY VISUALS, 8 CAPSULE GARMENTS & TECHNICAL FABRICATION MANUAL",
+      "overview": "“Engineered in Denim” explores denim as a material of structure rather than utility. Inspired by the precision of construction, the garment manipulates panels, seams and contrasting elements to create a strong architectural silhouette. Deep indigo denim provides the foundation, while bold red inserts interrupt the structure, creating rhythm, depth and movement. The design reimagines denim beyond its casual identity, presenting it as refined, powerful and contemporary.",
+      "technicalDocumentation": "",
+      "outcomeAndNotes": "",
+      "docImage1": "/assets/portfolio/project-03-docImage1-6b219256.jpg",
+      "docImage2": "",
+      "docImage3": ""
+    },
+    "04": {
+      "subtitle": "evening gown",
+      "timeline": "ss 2027",
+      "role": "FASHION DESIGNER & 3D MOTION SPECIALIST",
+      "toolsAndMediums": "satin and tulle",
+      "deliverables": "10 KINETIC GARMENTS, 3D CLOTH SIMULATION ARCHIVE & EDITORIAL LOOKBOOK",
+      "overview": "Inspired by the magical beauty of a secret garden,\nEnchanted Garden captures the harmony between nature\nand elegance. The collection draws inspiration from\ndelicate leaves, blooming flowers, morning dew, and\ngolden sunlight filtering through lush greenery. Soft\nsage-green tones and lustrous satin reflect the\nfreshness of nature, while structured corsetry and\nflowing silhouettes represent the balance between\nstrength and feminini.\n\nWhere emerald leaves meet morning dew,\nAnd golden sunlight dances through,\nA gown of grace, in sage-green hue,\nBlooms like a dream, serene and true.\nSoft petals sway, the wildflowers sing,\nWhile satin flows like the breath of spring.\nA secret garden, a world unseen,\nWhere elegance whispers in shades of green.",
+      "technicalDocumentation": "",
+      "outcomeAndNotes": "",
+      "docImage1": "/assets/portfolio/project-04-docImage1-9818aee8.jpg",
+      "docImage2": "",
+      "docImage3": ""
+    },
+    "05": {
+      "subtitle": "women's wear",
+      "timeline": "ss 2027",
+      "role": "LEAD TEXTILE & 3D GARMENT DESIGNER",
+      "toolsAndMediums": "cotton,  batik technique",
+      "deliverables": "BESPOKE CAPSULE COLLECTION, DIGITAL TWIN ARCHIVE & SHOWROOM EXHIBITION",
+      "overview": "Deep Under the Sea explores the fascinating and mysterious world hidden beneath the ocean’s surface. It is a journey into the depths of the sea, where every movement, colour, and living creature tells a unique story. The concept focuses on discovering the extraordinary marine ecosystem and understanding how different species coexist, interact, and survive together in their natural habitat. From vibrant coral reefs and delicate underwater plants to exotic fish and fascinating sea creatures, the underwater world is filled with endless wonders waiting to be explored. Beneath the calm and silent waters lies a lively universe full of colours, textures, patterns, and movement. This concept celebrates the beauty of marine life, the diversity of underwater species, and the magical relationship between nature and its surroundings. It invites us to look beyond the surface and discover a world that is mysterious, peaceful, vibrant, and full of life.",
+      "technicalDocumentation": "",
+      "outcomeAndNotes": "",
+      "docImage1": "/assets/portfolio/project-05-docImage1-8cd235a1.webp",
+      "docImage2": "",
+      "docImage3": ""
+    }
+  }
+}
